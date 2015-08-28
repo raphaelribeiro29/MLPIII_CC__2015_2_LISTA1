@@ -1,2 +1,2 @@
-# MLPIII_CC__2015_2_LISTA1
+# Metodologia e Linguagem de Programação Java
 Repositório criado com o intuito de compartilhar os códigos criados na disciplina.
